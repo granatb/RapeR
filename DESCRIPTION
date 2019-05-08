@@ -1,0 +1,19 @@
+Package: Rapujacy.RapeR
+Title: Rapuje kiedy nie chcesz
+Version: 0.0.0.9000
+Authors@R: 
+    person("Bartłomiej",
+           "Granat",
+           role = c("aut", "cre"),
+           email = "bartek.granat@gmail.com",
+           comment = structure("YOUR-ORCID-ID", .Names = "ORCID"))
+    person("Mateusz",
+           "Polakowski",
+           role = c("aut", "cre"),
+           email = "mckraqs@gmail.com",
+           comment = structure("YOUR-ORCID-ID", .Names = "ORCID"))
+Description: Ten pakiet dodaje nieco niepewności do twoich kodów. Czasem znienacka wyskoczy Ci super rap. Nigdy nie wiesz kiedy.
+License: MIT
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1

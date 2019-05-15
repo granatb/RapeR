@@ -2,13 +2,25 @@
 % Please edit documentation in R/mean.R
 \name{mean}
 \alias{mean}
-\title{mean}
+\title{fun_name}
 \usage{
 mean(params)
 }
 \arguments{
-\item{Rapik}{}
+\item{param}{fun_name}
 }
 \description{
-Rapuje, a nawet się tego nie spodziewasz
+kolejna funkcja podmieniona
 }
+\keyword{Ktos}
+\keyword{Odwiedzam}
+\keyword{beka}
+\keyword{chlop}
+\keyword{czlowieka,}
+\keyword{kaleka.}
+\keyword{krecona}
+\keyword{mlody}
+\keyword{nim}
+\keyword{steka,jest}
+\keyword{tu}
+\keyword{z}

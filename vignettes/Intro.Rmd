@@ -1,0 +1,40 @@
+---
+title: "Intro"
+author: "Bartłomiej Granat, Mateusz Polakowski"
+output: rmarkdown::html_vignette
+vignette: >
+  %\VignetteIndexEntry{Intro}
+  %\VignetteEngine{knitr::rmarkdown}
+  %\VignetteEncoding{UTF-8}
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>"
+)
+```
+
+```{r setup, include = FALSE}
+library(Rapujacy.RapeR)
+```
+
+# Do not use (nie używać)
+
+Pakiet Rapujacy.RapeR podmienia funkcje bazowe i dodaje do nich losowe działanie. Poleca się instalować w ramach żartu
+
+Ładujemy pakiet, a następnie próbujemy sobie policzyć sumę prostego wektora. Niespodzianka:
+
+```{r}
+x <- 1:20
+mean(x)
+mean(x)
+mean(x)
+mean(x)
+
+print(x)
+print(x)
+print(x)
+print(x)
+```
+

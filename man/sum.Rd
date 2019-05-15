@@ -2,13 +2,21 @@
 % Please edit documentation in R/sum.R
 \name{sum}
 \alias{sum}
-\title{sum}
+\title{fun_name}
 \usage{
 sum(params)
 }
 \arguments{
-\item{Rapik}{}
+\item{param}{fun_name}
 }
 \description{
-Rapuje, a nawet się tego nie spodziewasz
+kolejna funkcja podmieniona
 }
+\keyword{Gruba}
+\keyword{Przy}
+\keyword{boski}
+\keyword{chillout}
+\keyword{piwerku}
+\keyword{rozkmina}
+\keyword{sie}
+\keyword{toczy}
